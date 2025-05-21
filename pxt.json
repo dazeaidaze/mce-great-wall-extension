@@ -1,6 +1,6 @@
 {
-  "name": "great-wall-extension",
-  "description": "Builds the Great Wall in Minecraft",
+  "name": "mce-great-wall-extension",
+  "description": "Builds a section of the Great Wall in Minecraft Education Edition.",
   "dependencies": {
     "minecraft": "*"
   },
